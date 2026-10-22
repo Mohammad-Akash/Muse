@@ -1,0 +1,6 @@
+{
+  "name": "MUJER - Premium Cosmetics & Beauty",
+  "description": "Luxury cosmetics, skincare, makeup, fragrances, and beauty essentials e-commerce storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
